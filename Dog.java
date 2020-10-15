@@ -21,6 +21,10 @@ public class Dog {
   public String getBreed(){
     return this.breed;
   }
+  
+  public double getWeight(){
+    return this.weight;
+  }
 
 
   //@override
